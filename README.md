@@ -1,4 +1,4 @@
-# WebScapingProjects
+# Web Scraping Projects
 List of projects:
 ## 1.Scraping of Ecommerce Websites
 ### a.) Amazon
